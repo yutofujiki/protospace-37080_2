@@ -1,5 +1,5 @@
 {
-  "name": "protospace_37080_2",
+  "name": "protospace-37080_2",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0-alpha",
@@ -11,9 +11,8 @@
   "version": "0.1.0",
   "devDependencies": {
     "webpack-dev-server": "^4.7.1"
-
-  },  // ここにカンマを記述
- "engines" : {
-   "node": "14.18.2"  // ここに先ほど確認したバージョンを記述
- }
+  },
+  "engines" : {
+    "node": "14.18.2"
+  }
 }
